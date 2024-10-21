@@ -1,5 +1,6 @@
-Le projet A Monster's Slayer est écit en java. 
-Son but était d'appliquer les principes de la Programmation Orientée Object : classe , heritage , pollymorphisme , abstraction, etc.
-Dans ce projet , j'essaie d'implemneter un jeu de combat avec différents levels : il y a un personnage principale qui tout au long du jeu combat des monstres et à chaque niveau a des objectifs à atteindre.
-Plus il évolue dans le jeu, plus le niveau est accru
-Pas d'interface graphique , l'éxécution se fait au niveau de la Console
+Le projet A Monster's Slayer est écrit en java. 
+
+Le jeu a été conçu pour exploiter pleinement les principes de la Programmation Orientée Objet (POO), 
+en mettant l'accent sur la modularité, l'héritage, le polymorphisme et l'encapsulation. 
+L'objectif principal de ce projet est de démontrer une gestion efficace des objets tout en créant une expérience de jeu progressive et immersive.
+
