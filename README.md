@@ -29,7 +29,7 @@ Le projet a été conçu pour exploiter pleinement les principes de la **Program
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/A-Monsters-Slayer.git
+   git clone git@github.com:IrALm/A-MONSTER-S-SLAYER.git
    cd A-Monsters-Slayer
 
 
