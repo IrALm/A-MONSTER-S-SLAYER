@@ -31,5 +31,11 @@ Le projet a été conçu pour exploiter pleinement les principes de la **Program
    ```bash
    git clone git@github.com:IrALm/A-MONSTER-S-SLAYER.git
    cd A-Monsters-Slayer
+2. Pour compiler :
+   ```bash
+   javac -d projet/bin projet/src/*.java
+3. Pour exécuter :
+   ```bash
+   java -classpath bin niveau.Application
 
 
