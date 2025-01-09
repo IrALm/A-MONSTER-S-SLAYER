@@ -33,7 +33,7 @@ Le projet a été conçu pour exploiter pleinement les principes de la **Program
    cd A-Monsters-Slayer
 2. Pour compiler :
    ```bash
-   javac -d projet/bin projet/src/*.java
+   javac -d projet/bin projet/src/niveau/*.java
 3. Pour exécuter :
    ```bash
    java -classpath bin niveau.Application
